@@ -1,0 +1,19 @@
+{
+  "name": "authenticationpractice",
+  "version": "1.0.0",
+  "description": "testing out auth0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Earl Born",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-openid-connect": "^2.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
